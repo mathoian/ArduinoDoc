@@ -20,4 +20,4 @@
         |           [RST-BTN]            |    
         +--------------------------------+  
 		
-		http://busyducks.com/ascii-art-arduinos
+
