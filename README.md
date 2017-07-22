@@ -27,5 +27,4 @@ Documentação de arduino //desenho de esquema do hardware
          | [ ]A5/SCL  [ ] [ ] [ ]      RX<0[ ] |   D0
          |            [ ] [ ] [ ]              |
          |  UNO_R3    GND MOSI 5V  ____________/
-          \_______________________/
-*/
+          \_______________________/*/
